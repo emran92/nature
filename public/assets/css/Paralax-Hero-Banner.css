@@ -1,0 +1,40 @@
+div.jumbotron.hero-technology {
+  color: #fff;
+  text-align: center;
+  background: url('../../assets/img/fruit_banner.gif');
+  background-size: cover;
+  background-position: center top;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-attachment: local;
+
+}
+div.jumbotron.hero-vegitable {
+  color: #fff;
+  text-align: center;
+  background: url('../../assets/img/vegitable_banner.jpg');
+  background-size: cover;
+  background-position: center top;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-attachment: local;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 2px 2px rgba(0, 0, 0, 0.95);
+  color: #fff;
+  font-weight: 500;
+  font-size:50px;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  background-color: rgba(0,0,0,0.4);
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.95);
+  font-weight: 600;
+  border: 3px double rgba(255,255,255,0.01);
+}
+

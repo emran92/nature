@@ -1,0 +1,44 @@
+i {
+  color: gold;
+}
+
+i {
+  color: gold;
+}
+
+.h5, h5 {
+  margin-bottom: 0px;
+  padding-bottom: 36px;
+}
+
+.card {
+  word-wrap: normal;
+}
+
+.product-text-color {
+  color: #BB9AE3;
+}
+
+.btn-primary {
+  background-color: #6790F6;
+}
+
+h1, h5 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.small, small {
+  color: #9295A0;
+  font-size: 14px;
+}
+
+.row > div h5 {
+  font-size: 14px;
+  display: inline-block;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 22px;
+}
+
